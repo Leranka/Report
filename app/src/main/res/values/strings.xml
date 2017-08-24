@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Report Card</string>
+    <string name="emptystring" />
+    <string name="title_activity_sign_up">SignUp</string>
+    <string-array name="select">
+        <item>Select</item>
+        <item>Teacher</item>
+        <item>Student</item>
+    </string-array>
+
+</resources>
